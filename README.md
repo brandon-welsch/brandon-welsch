@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello my friend 👋🏻, I'm Brandon !
+
+💻 Currently work as **Junior Cloud & Security Engineer** at [**Scalingo**](https://scalingo.com)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=brandon-welsch&theme=react" alt="Brandon Welsch's GitHub Stats" />

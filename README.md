@@ -12,4 +12,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=brandon-welsch&count_private=true&theme=react&show_icons=true" alt="Brandon Welsch's GitHub Stats" />
 </a>
 
+&nbsp;
+
 ![](https://komarev.com/ghpvc/?username=brandon-welsch&style=flat&color=blue)

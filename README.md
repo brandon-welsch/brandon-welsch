@@ -1,6 +1,6 @@
 ### Hi 👋🏻, I'm Brandon !
 
-💻 Currently work as **Site Reliability Engineer** at [**Scalingo**](https://scalingo.com)
+💻 Currently work as **Senior Infrastructure Engineer** at [**Scalingo**](https://scalingo.com)
 
 &nbsp;
 
